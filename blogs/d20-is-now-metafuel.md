@@ -1,50 +1,46 @@
-Introducing: **MetaFuel**, a modular data platform transforming the trucking industry. It all started with the innovative **IFTA module** that turned the mundane, error-prone, and tedious process of managing IFTA Compliance into an accurate, streamlined, and automated workflow.
+## Our Vision
 
-## **Powering the Future of Fleet Management with the MetaFuel Card**
+> After months of brainstorming and soul searching, we've finally found an alias that encompasses our long term vision - to fuel the future of transportation & logistics through data and automation.
 
-Building on this robust data platform, MetaFuel has partnered with **Stripe** to bring you the **MetaFuel Card**—a next-generation Visa Fleet card designed to manage and control fleet expenses, from fuel to tires.
+ 
+  
 
-### **Why the MetaFuel Card Stands Out**
+   -----   
+     
 
-The Iowa-based startup MetaFuel is offering the MetaFuel Card as a **free fleet card**, providing exceptional value and convenience to local and long-haul trucking fleets as well as any fleet of vehicles.
+## What Exactly..is MetaFuel?  
 
-As a universally accepted **Visa Fleet Card**, it comes with a wide range of benefits, including:
 
-* Free IFTA automation and reporting
-* Integrated telematics insights
-* 2¢ savings per gallon of fuel purchased
-* Administrative controls & universal pump acceptance
+When you think of fuel, you probably think of diesel or other hydrocarbon blends---that liquid gold guzzled into the atmosphere in exchange for uptime. 
+  
 
-### **Solving Key Pain Points for Fleet Managers**
+Zoom out a bit. 
+At a high level, MetaFuel is the **digital intersection** of the **people and processes** keeping your fleet on the road. 
 
-The MetaFuel Card addresses key pain points by:
 
-* Eliminating the need for physical receipts
-* Streamlining fuel spend management
-* Providing valuable data insights
+We've realized how game changing a strong connected network between a fleet and its internal teams can be. Suddenly compliance can be automated. Everyone's always in the loop through event driven notifications. The firehose of telematics data you've had for years begins to expose inefficiencies and savings. Decisions become smarter---and _faster_. 
 
-This ensures operational efficiency and peace of mind for fleet managers.
+You're finally able to focus on the important stuff.
 
-### **Unbeatable Launch Promotion for Early Adopters**
+The best part about all of this, though, is that the processes that keep your fleet on the road are _malleable_ and the people making it happen can _adapt to improve_ those processes. They drive this industry forward, regardless of the energy source powering the vehicle. They just need the right tools for the job, and to be able to put those tools to work easily.
 
-The launch promotion offers the opportunity to lock in an entirely **free pricing model** for early adopters, making the MetaFuel Card an unbeatable choice for fleets looking to optimize their operations.
+This is why we think these pieces of the puzzle are so important. Interest compounds. Your employees, the tools they're enabled with, and the many processes that keep your fleet on the road---these are the things that will continue to drive uptime for decades to come. 
 
-Don't miss out on the future of fleet management; click [here](https://cal.com/team/getmetafuel/metafuel-card) to schedule a call to talk more about the MetaFuel Card & how to sign up today!
+   -----  
+  
+  <br>  
 
-## **FAQ**
 
-### Who is eligible to sign up for the MetaFuel Card?
+## Building The Future Now
 
-Any fleet of vehicles is eligible to sign up for the MetaFuel Card, from small local fleets to large long-haul trucking fleets.
+The reality is that the technological and regulatory landscape is set to change faster than ever, and evolving for a sustainable & data-driven world is critical for the future of fleets. 
 
-### How does the MetaFuel Card save me money?
 
-The MetaFuel Card offers 2¢ savings per gallon of fuel purchased and free IFTA automation and reporting.
+As applications of IoT, machine learning, and AI continue to prove their value, it’s inevitable that the future of trucking will be driven by automation and data analytics. Fleets will be aggregating and applying every ounce of vehicle data to best inform decisions. If your fleet still runs off of excel sheets and manual processes, it might be hard to imagine that this reality isn't too far away. 
 
-### How does the MetaFuel Card help me manage my fleet?
+Some even say the data-driven future is _now_.
 
-The MetaFuel Card streamlines fuel spend management and provides valuable data insights, eliminating the need for physical receipts and ensuring operational efficiency.
+But the point is this: These paradigm shifts that define the future of trucking will inevitably leave behind the fleets that are unable to adapt. Applying your data is difficult without complex tools and the knowledge to process it. We need smart software that helps us do this, but change is hard---so make it easy. **And still, the market lacks intuitive, connected data tools that make this possible.**
 
-### How do I sign up for the MetaFuel Card?
+For an industry that is truly the backbone of our economy, we found this disturbing, and took matters into our own hands. We've dedicated ourselves to making MetaFuel much more than just a smart fleet platform. It's a partner for change---a step in the right direction---so fleets can power the world today and 30 years from today. 
 
-Click [here](https://cal.com/team/getmetafuel/metafuel-card) to schedule a call to discuss the MetaFuel Card, and sign up today!
