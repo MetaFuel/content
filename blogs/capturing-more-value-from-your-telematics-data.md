@@ -5,7 +5,6 @@ Overall, using telematics in trucking enabled industry growth in safety, efficie
 
 But is it that easy? What are the blockers in enabling **most** companies to see a significant ROI on their telematics investments? And are providers in the space genuinely enabling fleets with data, or are there barriers to accessing and synthesizing raw vehicle-level data? And how does any company take data further than what's made readily available to fleets using any telematics service provider? Let's explore telematics in trucking.
 
-***
 
 ### Introduction to Telematics in the Trucking Industry 🚚
 
@@ -17,7 +16,6 @@ Over time, the use of telematics in the trucking industry continued to grow, and
 
 In short, the ELD mandate is a federal regulation requiring trucking companies to use electronic logging devices (ELDs) to track their drivers' hours of service (HOS). The mandate was introduced in 2017 to improve road safety by reducing truck drivers' work hours without taking a break. ELDs automatically record the time a truck is in motion, and they can generate reports that show compliance with the HOS rules. The ELD mandate applies to most trucking companies and drivers operating in the United States and has significantly impacted the trucking industry. _Stay tuned for a deep dive into the legislation in a future blog._
 
-***
 
 ### Harnessing Telematics Data 📡
 
@@ -29,7 +27,6 @@ _Performance_ data is another critical source of telematics data. This type of d
 
 _Behavioral_ data is another type of telematics data used to analyze driver behavior and identify potential safety issues. This data is typically collected through sensors and other devices installed in vehicles. It can monitor speeding, sudden braking, and other potentially dangerous driving behaviors. By analyzing behavioral data, trucking companies can identify and address potential safety issues and help to prevent accidents and other incidents on the road.
 
-***
 
 ### Barriers to Entry: Vehicle-Level Data Oceans
 
